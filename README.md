@@ -40,7 +40,7 @@ The current workflow of the project is:
 
 This diagram shows the main workflow of the current version of the project, including CV extraction, company validation, email generation, and Gmail sending.
 
-[Sequence Diagram](https://drive.google.com/file/d/1CDqrUCprsgtjVJf66gMqL_4u2E04uvVL/view?usp=sharing)
+[Sequence Diagram](asstes/Coop Outreach Sequence Diagram.png)
 
 ## Current limitations
 
