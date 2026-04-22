@@ -35,7 +35,7 @@
 
 ## (Sequence Diagram)
 
-[Sequence Diagram](asstes/Coop Outreach Sequence Diagram.png)
+[Sequence Diagram](assets/Coop-Outreach-Sequence-Diagram.png)
 ## القيود الحالية
 
 المشروع ما زال تحت التطوير، وحاليًا توجد بعض القيود:
