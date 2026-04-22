@@ -36,6 +36,12 @@ The current workflow of the project is:
 6. Generate a short Arabic outreach email
 7. Send the email using Gmail API
 
+## Sequence Diagram
+
+This diagram shows the main workflow of the current version of the project, including CV extraction, company validation, email generation, and Gmail sending.
+
+[Sequence Diagram]([https://www.figma.com/board/XKTuItUiT2eDzr62DpGwfC/Coop-Outreach-Sequence-Diagram?node-id=0-1&t=ZnWjuDQuFrCU62Vl-1](https://drive.google.com/file/d/1m5aOA3VXJ_EdBD1W6FggSOW7-E33ZCy9/view?usp=drive_link))
+
 ## Current limitations
 
 The project is still under development, and currently has some limitations:
@@ -62,11 +68,6 @@ Planned future updates include:
 7. Avoid resending to the same company unless the user updates the CV
 8. Notify the user by email when there is an important response or status update
 
-## Sequence Diagram
-
-This diagram shows the main workflow of the current version of the project, including CV extraction, company validation, email generation, and Gmail sending.
-
-[Sequence Diagram](https://www.figma.com/board/XKTuItUiT2eDzr62DpGwfC/Coop-Outreach-Sequence-Diagram?node-id=0-1&t=ZnWjuDQuFrCU62Vl-1)
 ## Notes
 
 This project is mainly a learning project that focuses on:
